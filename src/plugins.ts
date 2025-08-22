@@ -983,4 +983,13 @@ export const pluginsDev: PluginInfoBase[] = [
     ],
     tags: ['favorite', 'interface', 'visualization'],
   },
+    {
+    repo: "cookjohn/zotero-mcp",
+    releases: [
+      {
+        targetZoteroVersion: "7",
+        tagName: "latest"
+      }
+    ]
+  },
 ]
